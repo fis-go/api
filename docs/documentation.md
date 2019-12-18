@@ -1,4 +1,4 @@
-[![Dreamkas](https://camo.githubusercontent.com/dbf5a656c501c48fed3aa0cbbcf16f0840d23086/687474703a2f2f7777772e6d6574726f7665732e72752f75706c6f61642f69626c6f636b2f3264312f32643139306131326138366166643666653661646430646666333036393066382e706e67)]()
+[![Dreamkas](https://avatars3.githubusercontent.com/u/18038967?s=200&v=4)]()
 
 # FisGo API
 
@@ -213,7 +213,7 @@
       "name": "С комиссионером",
       "quantity": 1,
       "tax": "NDS_NO_TAX",
-"price": 100,
+      "price": 100,
       "tags": [
         {
           "tag": 1057,
